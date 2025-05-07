@@ -36,7 +36,5 @@ Desarrollar un programa en Python que:
 - `nota`
 
 
-Correr DB_create.py para la BD
-Correr cargaDatos.py para migrar los datos desde el CSV
-Correr exportarDatos.py para exportar los CSV divididos por notas.
+
 
