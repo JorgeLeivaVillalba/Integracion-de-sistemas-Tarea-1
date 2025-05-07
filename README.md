@@ -35,10 +35,8 @@ Desarrollar un programa en Python que:
 - `anho`
 - `nota`
 
-Requisitos:
 
 Correr DB_create.py para la BD
+Correr cargaDatos.py para migrar los datos desde el CSV
+Correr exportarDatos.py para exportar los CSV divididos por notas.
 
-```
-python -m pip install -r requirements.txt
-```
